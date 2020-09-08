@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akov.Sanitizer", "Akov.Sanitizer\Akov.Sanitizer.csproj", "{CC046AC3-AB5C-437E-A80F-0766A2A3804A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akov.Sanitizer.Demo", "Akov.Sanitizer.Demo\Akov.Sanitizer.Demo.csproj", "{1BA5A96A-9B44-4D9E-8596-FCB8FA83D5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC046AC3-AB5C-437E-A80F-0766A2A3804A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC046AC3-AB5C-437E-A80F-0766A2A3804A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC046AC3-AB5C-437E-A80F-0766A2A3804A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC046AC3-AB5C-437E-A80F-0766A2A3804A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA5A96A-9B44-4D9E-8596-FCB8FA83D5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA5A96A-9B44-4D9E-8596-FCB8FA83D5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA5A96A-9B44-4D9E-8596-FCB8FA83D5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA5A96A-9B44-4D9E-8596-FCB8FA83D5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB623B68-1F48-46AE-853A-5FDBFB341BA3}
+	EndGlobalSection
+EndGlobal

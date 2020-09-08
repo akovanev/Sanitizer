@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <Description>Sanitizes sensitive data, replacing them by fake placeholders.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/akovanev/Sanitizer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/akovanev/Sanitizer.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Sanitize;Sensitive;Data</PackageTags>
+    <Authors>Oleksandr Kovanev</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
