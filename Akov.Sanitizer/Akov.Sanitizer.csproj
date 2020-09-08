@@ -10,6 +10,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>Sanitize;Sensitive;Data</PackageTags>
     <Authors>Oleksandr Kovanev</Authors>
+    <Copyright>Oleksandr Kovanev</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
