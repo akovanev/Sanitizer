@@ -21,8 +21,8 @@ namespace Akov.Sanitizer.Demo
         {
             var card = new
             {
-                name = "Alex Kovanev",
-                number = "1234567890123456",
+                cardholderName = "Alex Kovanev",
+                cardNumber = "1234567890123456",
                 month = 1,
                 year = 2050,
                 cvc = "555",
