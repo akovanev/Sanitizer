@@ -2,7 +2,11 @@
 
 Sanitizes sensitive data, replacing them by fake placeholders.
 
-[![](https://img.shields.io/nuget/v/Akov.Sanitizer)](https://www.nuget.org/packages/Akov.Sanitizer/) [![](https://img.shields.io/nuget/dt/akov.sanitizer)](https://www.nuget.org/packages/Akov.Sanitizer/)
+[![](https://img.shields.io/nuget/v/Akov.Sanitizer)](https://www.nuget.org/packages/Akov.Sanitizer/)
+
+## Author's blog
+
+[How to Sanitize Sensitive Data While Handling Http Requests](https://akovanev.com/blogs/2020/09/09/how-to-sanitize-sensitive-data)
 
 ## Example
 
