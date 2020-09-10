@@ -15,10 +15,10 @@ Sanitizes sensitive data, replacing them by fake placeholders.
 [Sanitized]
 public class Card
 {
-    [ReplaceFor(typeof(PartialSanitizer), pattern: "4,4,*")]
+    [ReplaceFor(typeof(PartialSanitizer), propertyName: "cardNumber", pattern: "4,4,*")]
     public string? Number { get; set; }
 
-    [ReplaceFor(typeof(AsteriskSanitizer), propertyName: "name", pattern: "6,@")]
+    [ReplaceFor(typeof(AsteriskSanitizer), pattern: "6,@")]
     public string? CardholderName { get; set; }
 
     public int? Year { get; set; }
