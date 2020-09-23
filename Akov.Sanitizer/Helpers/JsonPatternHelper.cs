@@ -1,4 +1,4 @@
-﻿namespace Akov.Sanitizer.Patterns
+﻿namespace Akov.Sanitizer.Helpers
 {
     public class JsonPatternHelper : IPatternHelper
     {

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 using System.Text.RegularExpressions;
-using Akov.Sanitizer.Patterns;
+using Akov.Sanitizer.Helpers;
 using Akov.Sanitizer.Reflectors;
 using Akov.Sanitizer.Sanitizers;
 
